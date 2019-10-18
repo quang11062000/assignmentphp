@@ -1,0 +1,19 @@
+.container-fluid{
+ background:orange;
+}
+.nav-link{
+    border: 1px solid aqua;
+    background: yellowgreen;
+}
+.sm{
+    margin-left: 80%;
+}
+.btn{
+    margin-top: 10px;
+}
+.cl{
+    margin-right: 20px;
+    color: orangered;
+    font-size: 20px;
+    margin-top: -15px;
+}
